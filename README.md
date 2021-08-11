@@ -28,7 +28,7 @@ The whole problem should solved with HTML elements, CSS, and JavaScript. You won
 
 ## Submission Instructions
 
-To submit this project for evaluation fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSfGNcBEbVi3IvjXcM57AT9_3Z8DMA_OLKGq0PVS7m7pKDwjnA/viewform?usp=sf_link) with your information.
+To submit this project for evaluation fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSf6fzEhpvlpI9ejdzhbFxkQasN7_LcUFZ9KSP9B4eI-N_Ebiw/viewform?usp=pp_url) with your information.
 
 In your submission also include a short screen capture video of you explaning your code like you would if you were demoing a project in class (you don't need to live code, just finish your work and then make the video).
 
